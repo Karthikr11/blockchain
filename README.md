@@ -14,10 +14,6 @@ Languages used
 Live Demo
 https://voting.netlify.app/
 
-https://goerli.etherscan.io/address/0x0fee2908afda3d25e876c05ed5a6b9e40c37d909#code
-
-
-
 #HOW TO RUN
 Install all packeges by command - npm install
 Run neo4j by command (in bin folder of neo4j installed folder) - neo4j console 
